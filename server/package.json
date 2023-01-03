@@ -10,6 +10,7 @@
     "nodemon": "^2.0.20"
   },
   "scripts": {
+    "test": "jest",
     "start:dev": "nodemon app.js",
     "start:prod": "node app.js"
   }
